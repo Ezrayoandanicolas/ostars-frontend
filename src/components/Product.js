@@ -12,17 +12,17 @@ const Product = () => {
         <section className="bg-gray-900 mt-10 -rotate-1 scale-105">
             <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6 rotate-1">
                 <div className="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
-                    <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white">List Produk Website</h2>
+                    <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white">Jenis Website Anda Pilih</h2>
                     <p className="mb-5 font-light text-white sm:text-xl">Silahkan pilih paket yang sesuai dengan kebutuhan anda.</p>
                 </div>
                 <div className="space-y-8 lg:grid lg:grid-cols-3 sm:gap-6 xl:gap-10 lg:space-y-0">
                      {/* Pricing Card */}
                     <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
-                        <h3 className="mb-4 text-2xl font-semibold">Starter</h3>
-                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">Best option for personal use & for your next project.</p>
+                        <h3 className="mb-4 text-2xl font-semibold">Pemula</h3>
+                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">Cocok untuk tes pasar dan iklan.</p>
                         <div className="flex justify-center items-baseline my-8">
-                            <span className="mr-2 text-5xl font-extrabold">Rp. 500</span>
-                            <span className="text-gray-500 dark:text-gray-400">Rb/Bulan</span>
+                            <span className="mr-2 text-3xl font-extrabold">Rp. 500.000</span>
+                            <span className="text-gray-500 dark:text-gray-400">/Tahun</span>
                         </div>
                          {/* List */}
                         <ul className="mb-8 space-y-4 text-left">
@@ -66,11 +66,11 @@ const Product = () => {
                     </div>
                      {/* Pricing Card */}
                     <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
-                        <h3 className="mb-4 text-2xl font-semibold">Company</h3>
-                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">Relevant for multiple users, extended & premium support.</p>
+                        <h3 className="mb-4 text-2xl font-semibold">Pebisnis</h3>
+                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">Cocok untuk Pebisnis pemula dan iklan.</p>
                         <div className="flex justify-center items-baseline my-8">
-                            <span className="mr-2 text-5xl font-extrabold">Rp. 1.5</span>
-                            <span className="text-gray-500 dark:text-gray-400">Jt/bulan</span>
+                            <span className="mr-2 text-3xl font-extrabold">Rp. 1.500.000</span>
+                            <span className="text-gray-500 dark:text-gray-400">/Tahun</span>
                         </div>
                          {/* List */}
                         <ul className="mb-8 space-y-4 text-left">
@@ -114,11 +114,11 @@ const Product = () => {
                     </div>
                      {/* Pricing Card */}
                     <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
-                        <h3 className="mb-4 text-2xl font-semibold">Enterprise</h3>
-                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">Best for large scale uses and extended redistribution rights.</p>
+                        <h3 className="mb-4 text-2xl font-semibold">Perusahaan</h3>
+                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">Cocok untuk perusahaan kecil menengah dan keatas dengan biaya kompetitif.</p>
                         <div className="flex justify-center items-baseline my-8">
-                            <span className="mr-2 text-5xl font-extrabold">Rp. 3</span>
-                            <span className="text-gray-500 dark:text-gray-400">jt/bulan</span>
+                            <span className="mr-2 text-3xl font-extrabold">Rp. 3.000.000</span>
+                            <span className="text-gray-500 dark:text-gray-400">/Tahun</span>
                         </div>
                          {/* List */}
                         <ul className="mb-8 space-y-4 text-left">
@@ -170,16 +170,16 @@ const Product = () => {
                                     Fitur Website
                                 </th>
                                 <th scope="col-2" className="w-[20%] px-6 py-3 text-center">
-                                    Starter
+                                    Pemula
                                 </th>
                                 <th scope="col-2" className="w-[15%] px-6 py-3 text-center">
-                                    Company
+                                    Pebisnis
                                 </th>
                                 <th scope="col-2" className="w-[15%] px-6 py-3 text-center">
-                                    Enterprise
+                                    Perusahaan
                                 </th>
                                 <th scope="col-2" className="w-[15%] px-6 py-3 text-center">
-                                    Custom
+                                    Custom Website
                                 </th>
                             </tr>
                         </thead>

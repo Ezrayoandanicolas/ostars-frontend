@@ -13,21 +13,21 @@ const Keunggulan = () => {
                     <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-gray-800 rounded-lg border border-gray-100 shadow-lg xl:p-8">
                         <DevicePhoneMobileIcon className="w-24 m-auto text-white"></DevicePhoneMobileIcon>
                         <h3 className="mb-4 text-2xl text-white font-semibold">Desain Responsif</h3>
-                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400 mb-5">Best option for personal use & for your next project.</p>
+                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400 mb-5">Cocok digunakan untuk tampilan Smartphone terupdate baik Android & iOS.</p>
                         <a href="/" className="text-white bg-blue-600 hover:bg-blue-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center">Get started</a>
                     </div>
                      {/* Pricing Card */}
                     <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-gray-800 rounded-lg border border-gray-100 shadow-lg xl:p-8">
                         <ServerIcon className="w-24 m-auto text-white"></ServerIcon>
                         <h3 className="mb-4 text-2xl text-white font-semibold">Sistem Manajemen Konten</h3>
-                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400 mb-5">Relevant for multiple users, extended & premium support.</p>
+                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400 mb-5">Sistem UI yang mudah dan ramah bahkan pemula bisa menggunakannya.</p>
                         <a href="/" className="text-white bg-blue-600 hover:bg-blue-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center">Get started</a>
                     </div>
                      {/* Pricing Card */}
                     <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-gray-800 rounded-lg border border-gray-100 shadow-lg xl:p-8">
                         <PresentationChartBarIcon className="w-24 m-auto text-white"></PresentationChartBarIcon>
                         <h3 className="mb-4 text-2xl text-white font-semibold">Integrasi Social Media</h3>
-                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400 mb-5">Best for large scale uses and extended redistribution rights.</p>
+                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400 mb-5">Mendukung Google Tag Manager, Meta Pixel, Twitter Pixel, Tiktok Pixel, dan Ads Projek lainnya.</p>
                         <a href="/" className="text-white bg-blue-600 hover:bg-blue-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center">Get started</a>
                     </div>
                 </div>

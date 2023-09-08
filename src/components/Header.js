@@ -13,7 +13,7 @@ const Header = () => {
       <div className="flex flex-wrap m-auto text-white">
             <div className="flex items-center justify-center h-screen w-screen m-auto mb-[-22%] mt-[-5%]">
               <h1 className="text-center text-2xl lg:text-4xl xl:text-6xl">
-                Kamu ingin membuat website dengan
+                Buat website dengan
                 <Typed
                   className='text-yellow-500 ml-4'
                   strings={['Harga Murah', 'Fitur Lengkap', 'Desain Responsif', 'Dukungan CMS', 'Tampilan Terkini']}
@@ -25,7 +25,7 @@ const Header = () => {
               </h1>
             </div>
             <div className="w-full m-auto mt-2">
-                  <h1 className="text-center text-2xl lg:text-4xl xl:text-3xl">Kamu berada pada Website yang tepat!</h1>                  
+                  <h1 className="text-center text-2xl lg:text-4xl xl:text-3xl">No 1 Pendukung Start Up/Pemula & Pebisnis</h1>                  
             </div>
             <div className="flex justify-center w-full m-auto mt-20">
                   <button className="bg-yellow-500 px-5 py-2 rounded-2xl text-xl">Pelajari Selengkapnya</button>                 
