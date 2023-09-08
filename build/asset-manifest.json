@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c53a76db.css",
+    "main.js": "/static/js/main.11df218a.js",
+    "static/js/787.793eaf51.chunk.js": "/static/js/787.793eaf51.chunk.js",
+    "static/media/background.jpeg": "/static/media/background.a01d8c2c2d1c3131985a.jpeg",
+    "static/media/ostar.png": "/static/media/ostar.a97650f61702751f8262.png",
+    "index.html": "/index.html",
+    "main.c53a76db.css.map": "/static/css/main.c53a76db.css.map",
+    "main.11df218a.js.map": "/static/js/main.11df218a.js.map",
+    "787.793eaf51.chunk.js.map": "/static/js/787.793eaf51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c53a76db.css",
+    "static/js/main.11df218a.js"
+  ]
+}
