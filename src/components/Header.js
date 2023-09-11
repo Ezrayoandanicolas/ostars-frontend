@@ -34,11 +34,11 @@ const Header = () => {
                   />
                 </div>
               </h1>
-            <div className='mb-[20%]'>
+            <div>
               <h1 className="text-center text-lg 2xl:text-3xl">No 1 Pendukung Start Up/Pemula & Pebisnis</h1>
             </div>                
             <div className="flex justify-center w-full m-auto">
-                  <button className="bg-yellow-700 px-5 py-2 rounded-2xl text-xl font-bold">Pelajari Selengkapnya</button>              
+                  <button className="mt-20 bg-yellow-700 px-5 py-2 rounded-2xl text-xl font-bold">Pelajari Selengkapnya</button>              
             </div>
             </div>
       </div>
