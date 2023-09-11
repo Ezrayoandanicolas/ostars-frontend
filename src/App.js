@@ -4,7 +4,7 @@ import { HelmetProvider  } from 'react-helmet-async';
 import MetaTag from './components/MetaTag'
 import Navbar from './components/NavbarDefault'
 import Header from './components/Header'
-import AboutMe from './components/AboutMe'
+// import AboutMe from './components/AboutMe'
 import Product from './components/Product'
 import Services from './components/Services'
 import Keunggulan from './components/Keunggulan'
@@ -19,7 +19,7 @@ function App() {
       <div className="mx-auto bg-white round-xl shadow border m-0 p-0 overflow-hidden scroll-smooth">
         <Navbar />
         <Header />
-        <AboutMe />
+        {/* <AboutMe /> */}
         <Product />
         <Services />
         <Keunggulan />

@@ -9,7 +9,7 @@ const Header = () => {
   }
 
   return (
-    <section className='realtive w-full h-screen bg-blue-300' style={BackgroundStyle}>
+    <section className='realtive w-full h-screen bg-blue-300 -z-10' style={BackgroundStyle}>
       <div className="flex flex-wrap m-auto text-white">
             <div className="flex items-center justify-center h-screen w-screen m-auto mb-[-22%] mt-[-5%]">
               <h1 className="text-center text-2xl lg:text-4xl xl:text-6xl">

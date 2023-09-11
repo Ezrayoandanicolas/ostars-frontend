@@ -9,8 +9,8 @@ const Product = () => {
     }
 
     return (
-        <section className="bg-gray-900 mt-10 -rotate-1 scale-105">
-            <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6 rotate-1">
+        <section className="relative bg-gray-900 -rotate-1 scale-110 mt-5">
+            <div className="py-8 px-4 mb-10 rotate-1 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
                 <div className="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
                     <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white">Jenis Website Anda Pilih</h2>
                     <p className="mb-5 font-light text-white sm:text-xl">Silahkan pilih paket yang sesuai dengan kebutuhan anda.</p>

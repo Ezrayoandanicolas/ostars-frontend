@@ -1,6 +1,7 @@
-import React from 'react';
-import { Helmet } from 'react-helmet-async';
+import React from 'react'
+import { Helmet } from 'react-helmet-async'
 import TagManager from 'react-gtm-module'
+import Logo from '../images/ostar.png'
 
 const MetaTag = () => {
     const tagManagerArgs = {
@@ -11,8 +12,11 @@ const MetaTag = () => {
     
     return (
         <Helmet>
-            <title>Learning React Helmet!</title>
-            <meta name='description' content='Beginner friendly page for learning React Helmet.' />
+            <title>Ostars | No 1 Start Up Indonesia</title>
+            <link rel="icon" href={Logo} />
+            <link rel="apple-touch-icon" href={Logo} />
+            
+            <meta name='description' content='Ostars adalah start-up yang bergerak di bidang pembuatan website dan jasa iklan Facebook Ads dan Google Ads.' />
             <meta name="facebook-domain-verification" content="bomw77jrtzh0hwwfkwivajpqbwpm19" />
         </Helmet>
     );

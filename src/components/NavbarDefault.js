@@ -5,8 +5,8 @@ import Logo from '../images/ostar.png'
 
 const navigation = [
   { name: 'Dashboard', href: '#', current: true },
-  { name: 'Team', href: '#', current: false },
-  { name: 'Projects', href: '#', current: false },
+  { name: 'Owner', href: '#', current: false },
+  { name: 'Mitra', href: '#', current: false },
   { name: 'Calendar', href: '#', current: false },
 ]
 
