@@ -17,7 +17,6 @@ const MetaTag = () => {
             <link rel="apple-touch-icon" href={Logo} />
             
             <meta name='description' content='Ostars adalah start-up yang bergerak di bidang pembuatan website dan jasa iklan Facebook Ads dan Google Ads.' />
-            <meta name="facebook-domain-verification" content="bomw77jrtzh0hwwfkwivajpqbwpm19" />
         </Helmet>
     );
 }
