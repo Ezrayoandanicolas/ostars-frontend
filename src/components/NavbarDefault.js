@@ -12,8 +12,8 @@ export default function Example() {
   const [navigation, setNavigation] = useState([
     { name: 'Dashboard', href: '/', current: false },
     { name: 'Owner', href: '/owner', current: false },
-    { name: 'Mitra', href: '#', current: false },
-    { name: 'Calendar', href: '#', current: false },
+    { name: 'Mitra', href: '/', current: false },
+    { name: 'Calendar', href: '/', current: false },
   ])
   
   function handleClick(index) {
@@ -39,7 +39,7 @@ export default function Example() {
     });
 
     setNavigation(newNavigation);
-  }, []);
+  }, [navigation]);
 
 
   return (
