@@ -1,4 +1,4 @@
 deployment:
 tasks:
-- export DEPLOYPATH=/home/usercpanel/public_html/ostars/app-frontend
+- export DEPLOYPATH=/home/usercpanel/public_html/ostars/build
 - /bin/cp -r * $DEPLOYPATH
