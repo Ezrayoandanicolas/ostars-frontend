@@ -189,22 +189,22 @@ const Product = () => {
                                     Halaman/Page
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         4 Pages
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         8 Pages
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         15 Pages
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         15+ Pages
                                     </div>
                                 </td>
@@ -214,22 +214,22 @@ const Product = () => {
                                     Free Domain
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         .online, .store, .web.id, .my.id, .asia, .xyz
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         .com, .co.id, .web.id, .id
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         All Domain
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         All Domain
                                     </div>
                                 </td>
@@ -239,22 +239,22 @@ const Product = () => {
                                     Unlimited Bandwidth
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
@@ -264,22 +264,22 @@ const Product = () => {
                                     Unlimited Resources
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
@@ -289,22 +289,22 @@ const Product = () => {
                                     Integrasi Sosial Media
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
@@ -314,22 +314,22 @@ const Product = () => {
                                     Website SSL
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
@@ -339,22 +339,22 @@ const Product = () => {
                                     Maintenance Website
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         1 bln
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         2 bln
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         3 bln
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         4 bln
                                     </div>
                                 </td>
@@ -364,22 +364,22 @@ const Product = () => {
                                     Standar Kontak Form
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
@@ -389,22 +389,22 @@ const Product = () => {
                                     Whatsapp Integrasi
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CloseMark />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
@@ -414,22 +414,22 @@ const Product = () => {
                                     Email Bisnis
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CloseMark />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CloseMark />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
@@ -439,22 +439,22 @@ const Product = () => {
                                     Free Banner dan Logo
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CloseMark />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
@@ -464,22 +464,22 @@ const Product = () => {
                                     Statistik Kunjungan Website
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CloseMark />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
@@ -489,22 +489,22 @@ const Product = () => {
                                     Google Map Integrasi
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CloseMark />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
@@ -514,22 +514,22 @@ const Product = () => {
                                     Backup Data
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         Setiap 2 Minggu
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         Setiap 1 Minggu
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         setiap 3 Hari
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         Setiap Hari
                                     </div>
                                 </td>
@@ -539,22 +539,22 @@ const Product = () => {
                                     Revisi Aplikasi
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         2x
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         2x
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         4x
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         10x
                                     </div>
                                 </td>
@@ -564,22 +564,22 @@ const Product = () => {
                                     Support Teknis
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
@@ -589,22 +589,22 @@ const Product = () => {
                                     Integrasi Livechat
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CloseMark />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CloseMark />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CloseMark />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
@@ -614,22 +614,22 @@ const Product = () => {
                                     Facebook Ads
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CloseMark />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CloseMark />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CloseMark />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
@@ -639,22 +639,22 @@ const Product = () => {
                                     Google Ads
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CloseMark />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CloseMark />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CloseMark />
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         <CheckIcon />
                                     </div>
                                 </td>
@@ -664,22 +664,22 @@ const Product = () => {
                                     Perpanjang
                                 </th>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         400 Rb/Tahun
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         1.2 Jt/Tahun
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         2.4 Jt/Tahun
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
-                                    <div class="flex justify-center items-center">
+                                    <div className="flex justify-center items-center">
                                         Custom
                                     </div>
                                 </td>

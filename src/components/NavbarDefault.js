@@ -1,20 +1,47 @@
-import { Fragment } from 'react'
+import { NavLink } from 'react-router-dom'
+import { Fragment, useState, useEffect } from 'react'
 import { Disclosure } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import Logo from '../images/ostar.png'
-
-const navigation = [
-  { name: 'Dashboard', href: '/', current: false },
-  { name: 'Owner', href: '/owner', current: false },
-  { name: 'Mitra', href: '#', current: false },
-  { name: 'Calendar', href: '#', current: false },
-]
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
 
 export default function Example() {
+  const [navigation, setNavigation] = useState([
+    { name: 'Dashboard', href: '/', current: false },
+    { name: 'Owner', href: '/owner', current: false },
+    { name: 'Mitra', href: '#', current: false },
+    { name: 'Calendar', href: '#', current: false },
+  ])
+  
+  function handleClick(index) {
+    const newNavigation = navigation.map((item, i) => {
+      if (i === index) {
+        return { ...item, current: true }
+      } else {
+        return { ...item, current: false }
+      }
+    })
+  
+    setNavigation(newNavigation)
+  }
+
+  useEffect(() => {
+    const pathname = window.location.pathname;
+    const newNavigation = navigation.map((item) => {
+      if (item.href === pathname) {
+        return { ...item, current: true };
+      } else {
+        return { ...item, current: false };
+      }
+    });
+
+    setNavigation(newNavigation);
+  }, []);
+
+
   return (
     <Disclosure as="nav" className="fixed top-0 z-10 w-full bg-gray-800">
       {({ open }) => (
@@ -45,18 +72,21 @@ export default function Example() {
                 </div>
                 <div className="hidden sm:ml-6 sm:block">
                   <div className="flex space-x-4">
-                    {navigation.map((item) => (
-                      <a
+                    {navigation.map((item, index) => (
+                      <NavLink
+                        exact
                         key={item.name}
-                        href={item.href}
+                        to={item.href}
+                        activeClassName="bg-gray-900 text-white"
                         className={classNames(
                           item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white',
                           'rounded-md px-3 py-2 text-sm font-medium'
                         )}
-                        aria-current={item.current ? 'page' : undefined}
+                        // aria-current={item.current ? 'page' : undefined}
+                        onClick={() => handleClick(index)}
                       >
                         {item.name}
-                      </a>
+                      </NavLink>
                     ))}
                 </div>
                 </div>

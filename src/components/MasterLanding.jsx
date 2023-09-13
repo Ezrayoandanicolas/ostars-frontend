@@ -4,6 +4,7 @@ import Product from "./Product";
 import Services from "./Services";
 import Keunggulan from "./Keunggulan";
 import TermsAndCondition from "./TermsAndCondition";
+import Footer from "./Footer";
 
 const Landing = () => {
     return (
@@ -14,6 +15,7 @@ const Landing = () => {
             <Services />
             <Keunggulan />
             <TermsAndCondition />
+            <Footer />
         </>
     )
 }

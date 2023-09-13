@@ -14,10 +14,8 @@ const TermAndCondition = () => {
                         <li>Logo yang sudah termasuk dalam harga pembuatan, adalah logo standar.</li>
                         <li>Selesai dalam 7 Hari atau bisa lebih cepat sesuai dengan antrian.</li>
                         <li>Harga sudah termasuk domain dan hosting untuk 1 tahun.</li>
-                        <li>Tahun berikutnya cukup membayar Rp. 600.000 untuk perpanjangan domain dan hosting. Harga bisa berubah sewaktu-waktu tergantung</li>
                         <li>Jika anda sudah mempunyai domain dan hosting, maka anda cukup mengurangi harga pembuatan website sebesar Rp. 150.000.</li>
                         <li>Layanan tidak mencakup pembuatan script yang bersifat pemrograman.</li>
-                        <li>Pemesan wajib untuk selalu rutin membackup data-data website untuk menghindari sesuatu yang tidak diinginkan yang disebabkan karena musibah atau bencana.</li>
                         <li>Backup yang pihak hosting lakukan semata-mata untuk keperluan internal server dan kami dibebaskan atas tuntutan hukum dan ganti rugi atas kehilangan atau kerugian yang disebabkan atas kelalaian klien dalam menyimpan data secara berkala.</li>
                         <li>Syarat dan ketentuan ini dibuat demi kebaikan bersama. Dengan memesan jasa kami, berarti anda setuju pada syarat dan ketentuan di atas.
 </li>
