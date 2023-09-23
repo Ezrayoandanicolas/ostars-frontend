@@ -13,7 +13,6 @@ export default function Example() {
     { name: 'Dashboard', href: '/', current: false },
     { name: 'Owner', href: '/owner', current: false },
     { name: 'Mitra', href: '/mitra', current: false },
-    // { name: 'Calendar', href: '/calendar', current: false },
   ])
   
   function handleClick(index) {
