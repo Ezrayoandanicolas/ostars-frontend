@@ -684,31 +684,7 @@ const Product = () => {
                                     </div>
                                 </td>
                             </tr>
-                            <tr className="border-b bg-gray-900 hover:bg-gray-700 border-gray-700">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                                    {/* Kosong */}
-                                </th>
-                                <td className="px-6 py-4 text-center">
-                                    <div className="flex justify-center items-center">
-                                        <a href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Pemula?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
-                                    </div>
-                                </td>
-                                <td className="px-6 py-4 text-center">
-                                    <div className="flex justify-center items-center">
-                                    <a href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Bisnis?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
-                                    </div>
-                                </td>
-                                <td className="px-6 py-4">
-                                    <div className="flex justify-center items-center">
-                                    <a href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Perusahaan?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
-                                    </div>
-                                </td>
-                                <td className="px-6 py-4">
-                                    <div className="flex justify-center items-center">
-                                    <a href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Custom Website?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
-                                    </div>
-                                </td>
-                            </tr>
+                            
                         </tbody>
                     </table>
                 </div>
