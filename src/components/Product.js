@@ -690,22 +690,22 @@ const Product = () => {
                                 </th>
                                 <td className="px-6 py-4 text-center">
                                     <div className="flex justify-center items-center">
-                                        <a target="_blank" href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Pemula?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
+                                        <a href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Pemula?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
                                     </div>
                                 </td>
                                 <td className="px-6 py-4 text-center">
                                     <div className="flex justify-center items-center">
-                                    <a target="_blank" href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Bisnis?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
+                                    <a href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Bisnis?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
                                     <div className="flex justify-center items-center">
-                                    <a target="_blank" href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Perusahaan?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
+                                    <a href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Perusahaan?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
                                     </div>
                                 </td>
                                 <td className="px-6 py-4">
                                     <div className="flex justify-center items-center">
-                                    <a target="_blank" href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Custom Website?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
+                                    <a href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Custom Website?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
                                     </div>
                                 </td>
                             </tr>
