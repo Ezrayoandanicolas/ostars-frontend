@@ -19,7 +19,7 @@ const Product = () => {
                      {/* Pricing Card */}
                     <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
                         <h3 className="mb-4 text-2xl font-semibold">Pemula</h3>
-                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">Cocok untuk tes pasar dan iklan.</p>
+                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">Solusi Terbaik untuk pemula yang ingin Tes Pasar dengan Biaya yang terjangkau.</p>
                         <div className="flex justify-center items-baseline my-8">
                             <span className="mr-2 text-3xl font-extrabold">Rp. 500.000</span>
                             <span className="text-gray-500 dark:text-gray-400">/Tahun</span>
@@ -67,7 +67,7 @@ const Product = () => {
                      {/* Pricing Card */}
                     <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
                         <h3 className="mb-4 text-2xl font-semibold">Pebisnis</h3>
-                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">Cocok untuk Pebisnis pemula dan iklan.</p>
+                        <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">Solusi Terbaik untuk Pebisnis Pemula dan Promosi dengan biaya yang Kompetitif.</p>
                         <div className="flex justify-center items-baseline my-8">
                             <span className="mr-2 text-3xl font-extrabold">Rp. 1.500.000</span>
                             <span className="text-gray-500 dark:text-gray-400">/Tahun</span>
@@ -681,6 +681,31 @@ const Product = () => {
                                 <td className="px-6 py-4">
                                     <div className="flex justify-center items-center">
                                         Custom
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr className="border-b bg-gray-900 hover:bg-gray-700 border-gray-700">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                    {/* Kosong */}
+                                </th>
+                                <td className="px-6 py-4 text-center">
+                                    <div className="flex justify-center items-center">
+                                        <a target="_blank" href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Pemula?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
+                                    </div>
+                                </td>
+                                <td className="px-6 py-4 text-center">
+                                    <div className="flex justify-center items-center">
+                                    <a target="_blank" href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Bisnis?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
+                                    </div>
+                                </td>
+                                <td className="px-6 py-4">
+                                    <div className="flex justify-center items-center">
+                                    <a target="_blank" href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Perusahaan?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
+                                    </div>
+                                </td>
+                                <td className="px-6 py-4">
+                                    <div className="flex justify-center items-center">
+                                    <a target="_blank" href="https://wa.me/6282136803873?text=Halo, saya tertarik dengan produk/jasa yang Anda tawarkan. Bisa berikan informasi lebih lanjut tentang Paket Custom Website?"><button className="bg-blue-500 px-4 py-2 rounded-lg text-white">Pesan Sekarang</button></a>
                                     </div>
                                 </td>
                             </tr>
