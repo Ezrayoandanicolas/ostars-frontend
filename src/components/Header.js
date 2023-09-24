@@ -1,3 +1,4 @@
+import React from 'react'
 import Background from '../images/background.jpeg'
 import Typed from 'react-typed'
 

@@ -6,6 +6,9 @@ import Keunggulan from "./Keunggulan";
 import TermsAndCondition from "./TermsAndCondition";
 import Footer from "./Footer";
 
+import React from 'react'
+// import ReactDOM from 'react-dom'
+
 const Landing = () => {
     return (
         <>

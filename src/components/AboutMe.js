@@ -1,3 +1,5 @@
+import React from 'react'
+
 const AboutMe = () => {
     return (
         <section className="About-Me">

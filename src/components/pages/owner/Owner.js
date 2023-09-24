@@ -1,3 +1,4 @@
+import React from 'react'
 import PhotoHuman from '../../../images/Ostars-1.png'
 import TemplateOne from '../../../images/owner-template-1.png'
 import TemplateTwo from '../../../images/owner-template-2.png'

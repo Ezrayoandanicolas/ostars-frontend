@@ -1,3 +1,4 @@
+import React from 'react'
 import { BoltIcon, HandThumbUpIcon, CodeBracketIcon, ChatBubbleLeftRightIcon, GiftIcon, CpuChipIcon } from '@heroicons/react/24/outline'
 
 const service = () => {

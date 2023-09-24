@@ -1,3 +1,4 @@
+import React from 'react'
 import { DevicePhoneMobileIcon, ServerIcon, PresentationChartBarIcon } from '@heroicons/react/24/outline'
 
 const Keunggulan = () => {

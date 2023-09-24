@@ -1,3 +1,4 @@
+import React from 'react'
 const Footer = () => {
     return (
         <section className="relative bg-gray-900 w-full text-white">

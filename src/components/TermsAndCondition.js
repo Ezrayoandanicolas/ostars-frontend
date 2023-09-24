@@ -1,3 +1,4 @@
+import React from 'react'
 const TermAndCondition = () => {
     return (
         <section className="mt-20">
