@@ -1,6 +1,7 @@
+import React from 'react'
+// import ReactDOM from 'react-dom';
 import {Routes, Route} from 'react-router-dom'
 // import Logo from './logo.svg';
-import React from 'react'
 import { HelmetProvider  } from 'react-helmet-async';
 import MetaTag from './components/MetaTag'
 import Navbar from './components/NavbarDefault'
